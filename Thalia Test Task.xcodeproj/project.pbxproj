@@ -81,8 +81,7 @@
 		E32B57122676C70A00CBAC18 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				E3DA6DC1267632A100AAA102 /* MessagesTableViewCell.swift */,
-				E3DA6DC2267632A100AAA102 /* MessagesTableViewCell.xib */,
+				E3CAA8242678D7A20041BC13 /* Cells */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -147,6 +146,15 @@
 				E336A0D42674DA6900941DA3 /* Info.plist */,
 			);
 			path = "Thalia Test Task";
+			sourceTree = "<group>";
+		};
+		E3CAA8242678D7A20041BC13 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				E3DA6DC1267632A100AAA102 /* MessagesTableViewCell.swift */,
+				E3DA6DC2267632A100AAA102 /* MessagesTableViewCell.xib */,
+			);
+			path = Cells;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
